@@ -25,3 +25,6 @@ I do not have access to a GPU, so I trained the model on my CPU. The training pr
 
 ## Analysis
 The model was ok at translating Haitian Creole to English, but it struggled with some of the simple sentences. For example, for the sentence "koman ou ye?" (How are you?), the model translated it to "What are you?", which is not corrent. For a simple sentence like this, the model should be able to tanslate.
+
+## Future Work
+- Since I do not have access to a GPU, I was not able to train the model for a long time. I would like to train the model on a GPU to see if I can achieve better results.
