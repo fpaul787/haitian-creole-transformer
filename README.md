@@ -1,7 +1,5 @@
 # Haitian Creole Transformer
 
-## Project Summary
-
 This project implements a Transformer-based model for processing Haitian Creole language data. It utilizes a dataset of spoken and text data sourced from Carnegie Mellon University (CMU SCS). The project includes scripts for data preprocessing, model training, and evaluation. The trained model and dataset files are organized as follows:
 
 - **Dataset Notebook:** `transformer-model-dataset.ipynb`  
