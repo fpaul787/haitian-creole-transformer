@@ -28,3 +28,5 @@ The model was ok at translating Haitian Creole to English, but it struggled with
 
 ## Future Work
 - Since I do not have access to a GPU, I was not able to train the model for a long time. I would like to train the model on a GPU to see if I can achieve better results.
+
+## Update
